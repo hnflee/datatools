@@ -19,3 +19,7 @@ Version: Juno Service Release 2
 Build id: 20130225-0426
 
 jdk版本1.6
+
+
+
+在build文件夹下面提供可执行的x86与x64版本的可执行文件。
